@@ -1,5 +1,3 @@
-# audio_visualizer
-
 ## Name
 Audio Feature Visualiser
 
